@@ -1,4 +1,4 @@
-# -project_ai_summarizer
+# Ai Summarizer with vite
 
 # Introduction
 OpenAI's GPT models are known for their ability to generate human-like text and perform various language-related tasks, including text summarization. 
